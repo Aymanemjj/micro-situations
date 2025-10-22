@@ -95,7 +95,7 @@ li{
 }
 #G1{
     display: flex;
-    margin: 5rem;
+    margin: 5em;
     justify-content: center;
     gap: 3rem;
 }
